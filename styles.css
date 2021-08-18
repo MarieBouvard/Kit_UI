@@ -1,0 +1,130 @@
+
+#card-body1
+{
+    background-color: #38302e;
+    width: 6rem;
+    height: 3rem;
+}
+
+#card-body2
+{
+    background-color: #6f6866;
+    width: 6rem;
+    height: 3rem;
+}
+
+#card-body3
+{
+    background-color: #788585;
+    width: 6rem;
+    height: 3rem;
+}
+
+#card-body4
+{
+    background-color: #9caea9;
+    width: 6rem;
+    height: 3rem;
+}
+
+#card-body5
+{
+    background-color: #ccdad1;
+    width: 6rem;
+    height: 3rem;
+}
+
+.warning
+{ 
+    background-color: #f0803c;
+    border-radius: 5%;
+    border-color: #f0803c;
+    color: white;
+
+}
+
+.danger
+{ 
+    background-color: #dd0426;
+    border-radius: 5%;
+    border-color: #dd0426;
+    color: white;
+}
+
+.success
+{ 
+    background-color: #87cbac;
+    border-radius: 5%;
+    border-color: #87cbac;
+    color: white;
+}
+
+.info
+{ 
+    background-color: #92b4f4;
+    border-radius: 5%;
+    border-color: #92b4f4;
+    color: white;
+}
+
+.title1
+{
+    font-family: 'STIX Two Text', serif;
+    font-size: 51px;
+    font-weight: 400;
+}
+
+.title2
+{
+    font-family: 'STIX Two Text', serif;
+    font-size: 45px;
+    font-weight: 380;
+}
+
+.title3
+{
+    font-family: 'STIX Two Text', serif;
+    font-size: 39px;
+    font-weight: 350;
+}
+
+.title4
+{
+    font-family: 'STIX Two Text', serif;
+    font-size: 32px;
+    font-weight: 320;
+}
+
+.title5
+{
+    font-family: 'STIX Two Text', serif;
+    font-size: 27px;
+    font-weight: 300;
+}
+
+.title6
+{
+    font-family: 'STIX Two Text', serif;
+    font-size: 21px;
+    font-weight: 290;
+}
+
+.p, .list2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 280;
+}
+
+.list 
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.quote
+{   font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+}
